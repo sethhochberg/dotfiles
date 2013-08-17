@@ -1,0 +1,1 @@
+/home/seth/.vim/janus/vim/vimrc
