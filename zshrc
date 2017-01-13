@@ -48,5 +48,5 @@ bindkey '^[[1;9C' forward-word
 bindkey '^[[1;9D' backward-word
 
 # audioaddict vagrant
-export REPO_PATH=$HOME/audioaddict
+export REPO_PATH=$HOME/digitallyimported
 export PATH="/usr/local/sbin:$PATH"
