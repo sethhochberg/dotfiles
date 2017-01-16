@@ -35,4 +35,5 @@ let g:go_highlight_build_constraints = 1
 map <C-n> :NERDTreeToggle<CR>
 nnoremap <F5> :let _s=@/<Bar>:%s/\s\+$//e<Bar>:let @/=_s<Bar><CR>
 
-
+" for prevention of trailing whitespace
+highlight ExtraWhitespace ctermbg=red guibg=red
